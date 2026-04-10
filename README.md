@@ -6,3 +6,4 @@ Add new section covering key technical architecture insights
 Improve formatting and fix minor grammar issues in documentation
 Include additional references and supporting materials
 Optimize folder structure for easier navigation
+Add examples to clarify main concepts and workflow
