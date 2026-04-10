@@ -7,3 +7,4 @@ Improve formatting and fix minor grammar issues in documentation
 Include additional references and supporting materials
 Optimize folder structure for easier navigation
 Add examples to clarify main concepts and workflow
+Finalize first draft version and prepare for future updates
