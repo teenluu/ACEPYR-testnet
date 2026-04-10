@@ -1,1 +1,1 @@
-# ACEPYR-testnet
+Initialize project structure and add core documentation
